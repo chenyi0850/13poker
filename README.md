@@ -1,5 +1,6 @@
 # eleven-poker
-[版本图片](https://www.npmjs.com/package/项目名)
+# 徽章
+<a href="https://travis-ci.org/onevcat/Kingfisher">![](https://img.shields.io/travis/onevcat/Kingfisher/master.svg)</a>
 
 # 运行环境
 
