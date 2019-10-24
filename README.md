@@ -1,6 +1,7 @@
 # eleven-poker
 # 徽章
 <a href="https://travis-ci.org/onevcat/Kingfisher">![](https://img.shields.io/travis/onevcat/Kingfisher/master.svg)</a>
+<a href="https://github.com/snowdreams1006"><img src="https://img.shields.io/badge/github-snowdreams1006-brightgreen.svg" alt="github"></a>
 
 # 运行环境
 
