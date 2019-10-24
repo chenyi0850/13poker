@@ -2,6 +2,7 @@
 # 徽章
 <a href="https://travis-ci.org/onevcat/Kingfisher">![](https://img.shields.io/travis/onevcat/Kingfisher/master.svg)</a>
 <a href="https://badge.fury.io/js/vue"><img src="https://badge.fury.io/js/vue.svg" alt="npm version" height="18"></a>
+<a href="https://badge.fury.io/py/vue"><img src="https://badge.fury.io/py/vue.svg" alt="PyPI version" height="18"></a>
 
 # 运行环境
 
