@@ -8,11 +8,13 @@
 npm 2.6.10
 vue 3.9.3
 
-# 运行
+# 编译及使用方法
  
  git clone https://github.com/lacxxy/13poker.git
  
  npm install
  
  npm run serve
+ 
+ #commit
  
